@@ -11,4 +11,15 @@ nav{display:flex; justify-content:space-between;height: 70px; background-color: 
 .superior{margin: 20px 70px;}
 .superior p{color:dimgray; margin-top: 10px;}
 .superior-images{display: flex;justify-content: space-between; margin-top: 20px;}
-.superior-images img{width: 300px;}
+.superior-images div img{width: 400px;}
+.superior-images div {width: 500px;}
+.dyn{background-color: rgb(43, 113, 43); display: flex; padding: 0 70px;justify-content: space-between;}
+.dyn div{padding: 60px 0px; width: 500px;}
+.portfolio{padding: 20px 70px;}
+.portfolio span , .portfolio h2{font-size: 18px;color:rgb(77, 77, 77)}
+.portfolio p {padding:10px 0px;}
+.portfolio h1{padding-bottom: 20px;}
+.portfolio ul{display: flex;justify-content: center;margin-top: 30px;}
+.portfolio ul li{padding: 5px 10px;border:1px solid #494949;} 
+.portfolio .active{background-color: #494949;}
+.portfolio a{text-decoration: none;color: #000;}
